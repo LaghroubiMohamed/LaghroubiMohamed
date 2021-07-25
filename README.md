@@ -41,4 +41,4 @@
 
 
 [Gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=Laghroubi.mohamed@gmail.com
-[linkedin]: https:/www.linkedin.com/in/laghroubi-mohamed
+[linkedin]: https://www.linkedin.com/in/laghroubi-mohamed
